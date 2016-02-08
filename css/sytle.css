@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+.mainpage {
+    color: gold;
+}
+
+.btn {
+    background-image: none;
+    background-color: gold;
+}
+
+.btn:hover {
+    background-image: none;
+    background-color: gold;
+}
